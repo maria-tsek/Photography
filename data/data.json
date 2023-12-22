@@ -1,14 +1,26 @@
 [
   {
-    "name": "Κρέας",
-    "image": "https://meatboutiquetenerife.com/wp-content/uploads/2022/04/leg.jpg"
+    "name": "Λαχανικά",
+    "mainImage": "https://parade.com/.image/t_share/MTkwNTgxMzY3MTIzMjIzNjc3/healthiest-vegetables-jpg.jpg",
+    "images": [
+      "https://www.palmosnews.gr/wp-content/uploads/2016/06/%CE%BC%CF%80%CF%81%CE%B9%CE%B1%CE%BC_1.jpg",
+      "https://api.giorgostsoulis.com/storage/media/recipe/1152/conversions/2709e1cc5e35415f9cc4502ded3470a8_XL-large.jpg"
+    ]
   },
   {
-    "name": "Λαχανικά",
-    "image": "https://parade.com/.image/t_share/MTkwNTgxMzY3MTIzMjIzNjc3/healthiest-vegetables-jpg.jpg"
+    "name": "Κρέας",
+    "mainImage": "https://meatboutiquetenerife.com/wp-content/uploads/2022/04/leg.jpg",
+    "images": [
+      "https://cdn.ethnos.gr/resources/images/0480f077-c730-4d67-bf7c-34bfa3350d17.jpg",
+      "https://thumbs.dreamstime.com/z/%CF%88%CE%B7%CE%BC%CE%AD%CE%BD%CE%BF-%CE%BA%CE%B1%CF%80%CE%AD%CE%BB%CE%BF-%CE%B1%CF%80%CF%8C-%CE%BA%CE%B1%CE%BB%CE%B1%CE%BC%CF%80%CF%8C%CE%BA%CE%B9-%CE%AE-%CE%B2%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%B9%CE%AC%CE%BD%CE%B9%CE%BA%CE%BF-%CE%BA%CF%81%CE%AD%CE%B1%CF%82-%CF%80%CE%B9%CE%BA%CE%AC%CE%BD%CF%84%CE%B9%CE%BA%CE%BF-%CF%83%CE%B5-213577675.jpg"
+    ]
   },
   {
     "name": "Όσπρια",
-    "images": "https://3.bp.blogspot.com/-lG2ZUlzbzhU/WfIN5etcyZI/AAAAAAAAkf0/MEWk-EIXcHc4_baucth9rSaKRXHZdOqPQCLcBGAs/s1600/legumes.jpg"
+    "mainImage": "https://3.bp.blogspot.com/-lG2ZUlzbzhU/WfIN5etcyZI/AAAAAAAAkf0/MEWk-EISxwAsB8Ks5fcIi2IgBpWSjqXfQCLcBGAs/s1600/chickpeas.jpg",
+    "images": [
+      "https://thumbs.dreamstime.com/b/%CE%BC%CE%B1%CE%B3%CE%B5%CE%B9%CF%81%CE%B5%CE%BC%CE%AD%CE%BD%CE%B1-%CE%BC%CE%B5%CE%B9%CE%BA%CF%84%CE%AC-%CF%8C%CF%83%CF%80%CF%81%CE%B9%CE%B1-%CF%86%CE%B1%CE%BA%CE%AD%CF%82-%CF%83%CF%84%CE%B9%CF%86%CE%AE-%CE%BC%CE%B5-%CE%BD%CF%84%CE%BF%CE%BC%CE%AC%CF%84%CE%B5%CF%82-%CF%83%CF%84%CE%B9%CF%86%CE%AC%CE%B4%CE%BF-%CF%87%CE%BF%CF%81%CF%84%CE%BF%CF%86%CE%B1%CE%B3%CE%B9%CE%BA%CE%AE-180928020.jpg",
+      "https://i1.prth.gr/images/1168x656/files/2022-03-24/ospria_NET.jpg"
+    ]
   }
 ]

@@ -11,7 +11,12 @@ export default async function handler(req, res) {
     case "GET":
       try {
         const foods = await Food.find({});
-        res.status(200).json({ success: true, data: foods });
+        const formattedData = foods.map((food) => ({
+          name: food.name,
+          mainImage: food.mainImage,
+          images: food.images,
+        }));
+        res.status(200).json({ success: true, data: formattedData });
       } catch (error) {
         res.status(500).json({ success: false, error });
       }

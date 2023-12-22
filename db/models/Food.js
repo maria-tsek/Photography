@@ -7,6 +7,8 @@ const foodSchema = new Schema(
     _id: { type: String, required: true },
     name: { type: String, required: true },
     image: { type: String, required: true },
+    mainImage: { type: String, required: true },
+    images: { type: [String], required: true },
   },
   { collection: "food" }
 );
